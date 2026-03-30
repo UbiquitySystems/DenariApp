@@ -14,11 +14,11 @@ Denari is a powerful, open-source accounting platform built for growing business
   <tr>
     <td align="center" width="33%">
       <img src="https://getdenari.app/cdn/login.png" alt="Login" width="100%"><br/>
-      <sub><b>Dashboard</b></sub>
+      <sub><b>Login</b></sub>
     </td>
     <td align="center" width="33%">
       <img src="https://getdenari.app/cdn/dashboard.png" alt="Dashboard" width="100%"><br/>
-      <sub><b>Login</b></sub>
+      <sub><b>Dashboard></sub>
     </td>
     <td align="center" width="33%">
       <img src="https://getdenari.app/cdn/multicompany.png" alt="Multi-Organisation" width="100%"><br/>
