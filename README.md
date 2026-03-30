@@ -4,22 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Technology-Wizard/Denari/commits/master">
-    <img src="[https://getdenari.app/cdn/login.png]" alt="Commit activity" />
-  </a>
-  <a href="https://github.com/Technology-Wizard/Denari/blob/master/LICENSE">
-    <img src="https://img.shields.io/github/license/Technology-Wizard/Denari" alt="License" />
-  </a>
-  <a href="https://github.com/Technology-Wizard/Denari/issues">
-    <img src="https://img.shields.io/github/issues/Technology-Wizard/Denari" alt="Issues" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://getdenari.app"><strong>getdenari.app</strong></a>
-</p>
-
 ---
 
 ## What is Denari?
