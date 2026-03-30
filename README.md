@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/Technology-Wizard/Denari/commits/master">
-    <img src="https://img.shields.io/github/commit-activity/m/Technology-Wizard/Denari/master" alt="Commit activity" />
+    <img src="[https://getdenari.app/cdn/login.png]" alt="Commit activity" />
   </a>
   <a href="https://github.com/Technology-Wizard/Denari/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/Technology-Wizard/Denari" alt="License" />
@@ -29,15 +29,15 @@ Denari is a powerful, open-source accounting platform built for growing business
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://getdenari.app/cdn/Screenshot_20260330_052840.png" alt="Dashboard" width="100%"><br/>
+      <img src="https://getdenari.app/cdn/login.png" alt="Login" width="100%"><br/>
       <sub><b>Dashboard</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://getdenari.app/cdn/Screenshot_20260330_051014.png" alt="Login" width="100%"><br/>
+      <img src="https://getdenari.app/cdn/dashboard.png" alt="Dashboard" width="100%"><br/>
       <sub><b>Login</b></sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://getdenari.app/cdn/Screenshot_20260330_054732.png" alt="Multi-Organisation" width="100%"><br/>
+      <img src="https://getdenari.app/cdn/multicompany.png" alt="Multi-Organisation" width="100%"><br/>
       <sub><b>Multi-Organisation</b></sub>
     </td>
   </tr>
